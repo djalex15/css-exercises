@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(255, 108, 108);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#id_1 {
+    color: rgb(78, 78, 255);
+    font-size: 36px;
+}
+
+#id_2 {
+    background-color: lightseagreen;
+    font-size: 24px;
+    font-weight: 600;
+}
